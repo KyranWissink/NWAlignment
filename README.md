@@ -1,1 +1,1 @@
-Kyran Wissink<br>BfB<br>github.com/KyranWissink/PBFB<br>k.wissink@student.rug.nl
+Kyran Wissink<br>Student Biomedical Sciences<br>University of Groningen<br>github.com/KyranWissink<br>k.wissink@student.rug.nl
