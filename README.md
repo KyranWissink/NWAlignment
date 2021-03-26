@@ -1,5 +1,7 @@
+**Needleman-Wunsch alignment tool**<br>
 A C++ interpretation of the Needleman-Wunsch alignment.<br>
 Outputs all possible alignments that have the same score.<br>
+Does not support MSA<br>
 <br>
 <br>
 <br>
